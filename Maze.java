@@ -1,7 +1,5 @@
 // Name:Zixi Wang
-// USC loginid:zixiwang
-// CS 455 PA3
-// Fall 2016
+
 
 import java.util.Arrays;
 import java.util.LinkedList;
